@@ -26,7 +26,7 @@ A full-stack product management application where users can **add, update, delet
 **Backend:**  
 - Node.js + Express 🌍  
 - CORS & dotenv  
-- MongoDB (if database is used)  
+- MongoDB   
 
 ---
 
